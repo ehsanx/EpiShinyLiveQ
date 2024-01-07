@@ -1,0 +1,26 @@
+{
+    "id": "1EC205E7",
+    "path": "E:/GitHub/EpiShinyLiveQ/app/app.R",
+    "project_path": "app/app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1704652071913.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "70,74",
+        "scrollLine": "56"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1704654490,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1704654490962,
+    "read_only": false,
+    "read_only_alternatives": []
+}
